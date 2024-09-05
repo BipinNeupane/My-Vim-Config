@@ -1,0 +1,22 @@
+{
+  "languageserver": {
+    "phpls": {
+      "command": "php",
+      "args": ["-S", "localhost:8000"],
+      "filetypes": ["php"],
+      "rootPatterns": [".git/", "composer.json"],
+      "trace.server": "verbose",
+      "settings": {
+        "intelephense": {
+          "files": {
+            "maxSize": 5000000
+          }
+        }
+      }
+    }
+  },
+  "suggest.enablePreselect": false,
+  "suggest.noselect": true,
+  "suggest.floatEnable": false
+}
+}

@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/mnt/Data/Congrexa/Congrexa/routes'
+let g:netrw_dirhist_5='/mnt/Data/Congrexa/Congrexa'
+let g:netrw_dirhist_4='/mnt/Data/Congrexa/Congrexa/tests'
+let g:netrw_dirhist_3='/mnt/Data/Congrexa/Congrexa'
+let g:netrw_dirhist_2='/mnt/Data/Congrexa/Congrexa/storage'
+let g:netrw_dirhist_1='/mnt/Data/Congrexa/Congrexa'
